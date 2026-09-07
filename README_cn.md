@@ -28,7 +28,6 @@ FlagOS-Robo 打通从数据采集到真机与评测平台（[FlagEval](https://g
 
 - 通过 FlagOS 软件栈实现具身智能大、小脑模型的跨芯片高效训练与推理，既支持不同云侧服务器芯片，又支持不同端侧模组。
 - 实现大脑模型（VLM）和小脑模型（VLA）从训练与推理部署全流程所需功能，并提供用户简单易用接口，可自适应调优和一键部署。
-- [KERV](https://github.com/zhengzihaoPKU/KERV) 面向 VLA 模型提供运动学纠正推测解码，并通过 FlagScale 支持验证模型与草稿模型训练、加速推理和 LIBERO 评估。
 - 支持 [RoboOS](https://github.com/FlagOpen/RoboOS) 跨本体协作，实现不同数据格式兼容、高效端云协同、真机评测等功能。
 
 

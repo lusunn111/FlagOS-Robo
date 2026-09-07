@@ -21,8 +21,7 @@ of intelligent agents.
 
 ## Feature Highlights
 
-- [FlagScale](https://github.com/flagos-ai/FlagScale/tree/main) as users' entrypoint supports robot related AI model training and inference, including PI0, RoboBrain-2.0, RoboBrain-X0, Qwen-GR00T, and KERV.
-- [KERV](https://github.com/zhengzihaoPKU/KERV) provides kinematic-rectified speculative decoding for VLA models, with verifier and drafter training, accelerated inference, and LIBERO evaluation through FlagScale.
+- [FlagScale](https://github.com/flagos-ai/FlagScale/tree/main) as users' entrypoint supports robot related AI model training and inference, including Pi-0, RoboBrain2, and RoboBrainX0, etc.
 - FlagOS-Robo supports [RoboOS](https://github.com/FlagOpen/RoboOS)-based cross-embodiment collaboration,
   ensuring compatibility with different data formats, efficient edge-cloud coordination,
   and real-machine evaluation.
